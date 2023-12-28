@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ghazian</h1>
 <h3 align="center">Programmer, 3D Artist, 2D Artist, and Graphic Designer</h3>
 
-- 🔭 I’m currently studying on **Universitas Negeri Padang**
+- 🔭 I’m currently studying at **Universitas Negeri Padang**
 
 - 🌱 I’m currently learning **C++, C, Python, Kotlin**
 
