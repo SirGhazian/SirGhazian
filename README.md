@@ -28,11 +28,9 @@
 
 <img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/3a7aff5f-f1c3-428f-8ea1-2e6845c38c37">
 
-<br/><br/>
+<br/><hr/> 
 
-## <img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/48fee2fd-5a77-40c6-9eb8-a73ebfd364fc">
-
-<div align="center">
+<img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/48fee2fd-5a77-40c6-9eb8-a73ebfd364fc">     
 <a href="https://github.com/SirGhazian" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -45,4 +43,5 @@
 <a href="https://www.artstation.com/ghazian_tza" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
+<hr/> 
 </div>  
