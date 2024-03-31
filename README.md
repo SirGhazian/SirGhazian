@@ -13,12 +13,21 @@
 <p align="left">
 </p>
 
-<br/>  
-<h3 align="left">Languages and Tools:</h3>
+<br/>
+
+
+## <img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/9a44bfd2-f8dc-4576-a024-c3f94cb037e7">
+
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <br/>
 
-## Connect with me  
+## <img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/3f69f4e7-0670-40a3-acff-e88829804092">
+
+<img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/7c56c86f-cb41-4df0-b27b-457f93aa3366">
+<br/><br/>
+
+## <img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/48fee2fd-5a77-40c6-9eb8-a73ebfd364fc">
+
 <div align="center">
 <a href="https://github.com/SirGhazian" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
