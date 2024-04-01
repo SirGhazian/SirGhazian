@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ghazian</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ghazian</h1> 
 <h3 align="center">Programmer, 3D Artist, 2D Artist, and Graphic Designer</h3>
 
 <br/>  
+
 <img align="right" alt="Coding" width="400" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/19e88997-fcbd-4e2c-85d0-abf37ea6c804">
+
+<img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/503e9fa1-1708-4565-af76-a36949dd87eb">
 
 - 🔭 I’m currently studying at **Universitas Negeri Padang**
 
@@ -13,7 +16,7 @@
 <p align="left">
 </p>
 
-<br/><br/>
+<br/>
 
 
 ## <img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/9a44bfd2-f8dc-4576-a024-c3f94cb037e7">
@@ -45,4 +48,7 @@
 
 </a>
 <hr/> 
+
+<img align="left" width="1100" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7de35d9d-28fe-49d3-982f-5a99cf882175/d92nrfe-bc74d9e1-f404-47d5-b42b-2c3359d069a6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdkZTM1ZDlkLTI4ZmUtNDlkMy05ODJmLTVhOTljZjg4MjE3NVwvZDkybnJmZS1iYzc0ZDllMS1mNDA0LTQ3ZDUtYjQyYi0yYzMzNTlkMDY5YTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TO9L_o9u1Q9R7Zz-mj_KLbLBExBMYAbiXY7YcoZAy9Q">
+
 </div>  
