@@ -33,7 +33,7 @@
 
 <br/><hr/> 
 
-<img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/48fee2fd-5a77-40c6-9eb8-a73ebfd364fc">     
+<img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/bbc01c25-0494-4bff-8b31-cee9b843c74d">     
 <a href="https://github.com/SirGhazian" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
