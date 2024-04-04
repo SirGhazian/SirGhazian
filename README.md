@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ghazian</h1> 
-<h3 align="center">Programmer, 3D Artist, 2D Artist, and Graphic Designer</h3>
+<h3 align="center">Programmer, 3D Artist, and Graphic Designer</h3>
 
 <br/>  
 
