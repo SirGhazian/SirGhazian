@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ghazian</h1> 
 <h3 align="center">Programmer, 3D Artist, and Graphic Designer</h3>
 
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+
 <br/>  
 
 <img align="right" alt="Coding" width="400" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/19e88997-fcbd-4e2c-85d0-abf37ea6c804">
@@ -18,8 +20,9 @@
 
 <br/>
 
-
-## <img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/9a44bfd2-f8dc-4576-a024-c3f94cb037e7">
+<br/><br/>
+<img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/9a44bfd2-f8dc-4576-a024-c3f94cb037e7">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -27,7 +30,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <br/>
 
-## <img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/3f69f4e7-0670-40a3-acff-e88829804092">
+<br/><br/>
+<img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/3f69f4e7-0670-40a3-acff-e88829804092">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 
 <img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/3a7aff5f-f1c3-428f-8ea1-2e6845c38c37">
 
