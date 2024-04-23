@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ghazian</h1> 
-<h3 align="center">Programmer, 3D Artist, and Graphic Designer</h3>
 
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+![ghazian](https://github.com/SirGhazian/SirGhazian/assets/142916107/658affb0-5e27-45b4-884f-d08940733cad)
+
 
 <br/>  
 
