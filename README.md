@@ -1,6 +1,4 @@
-
-![ghazian](https://github.com/SirGhazian/SirGhazian/assets/142916107/658affb0-5e27-45b4-884f-d08940733cad)
-
+![ghazian](https://github.com/SirGhazian/SirGhazian/assets/142916107/759bc400-b7a8-4c7f-b12b-daf7a69fb597)
 
 <br/>  
 
