@@ -1,10 +1,10 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/759bc400-b7a8-4c7f-b12b-daf7a69fb597">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/d23d88a0-f429-46ef-bd48-9a57d1c56699">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/ce4dbc31-574d-44e2-b25b-802942294cf9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/40b06311-7be9-4d8a-8271-a3d1c803f2c0">
   <img alt="Header" src="/">
 </picture>
 
-<br/>  
+<br/> 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/19e88997-fcbd-4e2c-85d0-abf37ea6c804">
 
