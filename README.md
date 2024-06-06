@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/759bc400-b7a8-4c7f-b12b-daf7a69fb597">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/d23d88a0-f429-46ef-bd48-9a57d1c56699">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Header" src="/">
 </picture>
 
 <br/>  
