@@ -8,7 +8,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/19e88997-fcbd-4e2c-85d0-abf37ea6c804">
 
-<img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/503e9fa1-1708-4565-af76-a36949dd87eb">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/503e9fa1-1708-4565-af76-a36949dd87eb">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/0d2623bf-4fd7-4618-a04a-db758666ae68">
+  <img alt="Header" height="30"  alt="about me">
+</picture>
 
 - 🔭 I’m currently studying at **Universitas Negeri Padang**
 
@@ -22,7 +26,12 @@
 <br/>
 
 <br/><br/>
-<img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/9a44bfd2-f8dc-4576-a024-c3f94cb037e7">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/9a44bfd2-f8dc-4576-a024-c3f94cb037e7">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/3dd99933-c2b3-4830-901f-628dab50eec9">
+  <img alt="Header" height="30"  alt="languages">
+</picture>
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -31,20 +40,30 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <br/>
 
-<br/><br/>
-<img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/3f69f4e7-0670-40a3-acff-e88829804092">
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/3f69f4e7-0670-40a3-acff-e88829804092">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/3a4a3495-1d72-4210-9d3a-d234e612a725">
+  <img alt="Header" height="30"  alt="other skills">
+</picture>
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/3a7aff5f-f1c3-428f-8ea1-2e6845c38c37">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/4c7c43d3-a94e-42d0-b310-a71da20efb56">
-  <img alt="Header" height="30" src="/">
+  <img alt="Header" height="30" alt="keahlian">
 </picture>
 
 
 <br/><hr/> 
 
-<img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/bbc01c25-0494-4bff-8b31-cee9b843c74d">     
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/bbc01c25-0494-4bff-8b31-cee9b843c74d">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/8402913e-979b-42f2-93f7-7a1ae2353d03">
+  <img alt="Header" height="30"  alt="connect with me">
+</picture>
+
 <a href="https://github.com/SirGhazian" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
