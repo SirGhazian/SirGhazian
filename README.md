@@ -3,6 +3,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/d23d88a0-f429-46ef-bd48-9a57d1c56699">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
 <br/>  
 
 <img align="right" alt="Coding" width="400" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/19e88997-fcbd-4e2c-85d0-abf37ea6c804">
