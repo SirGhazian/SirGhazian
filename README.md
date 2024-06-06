@@ -1,4 +1,5 @@
-![GitHub-Mark-Light](https://github.com/SirGhazian/SirGhazian/assets/142916107/d23d88a0-f429-46ef-bd48-9a57d1c56699)![GitHub-Mark-Dark](https://github.com/SirGhazian/SirGhazian/assets/142916107/759bc400-b7a8-4c7f-b12b-daf7a69fb597)
+![GitHub-Mark-Light](https://github.com/SirGhazian/SirGhazian/assets/142916107/d23d88a0-f429-46ef-bd48-9a57d1c56699#gh-light-mode-only)
+![GitHub-Mark-Dark](https://github.com/SirGhazian/SirGhazian/assets/142916107/759bc400-b7a8-4c7f-b12b-daf7a69fb597#gh-dark-mode-only)
 
 <br/>  
 
