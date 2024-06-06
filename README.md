@@ -60,7 +60,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/bbc01c25-0494-4bff-8b31-cee9b843c74d">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/8402913e-979b-42f2-93f7-7a1ae2353d03">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/3eab22e4-d75a-401b-8935-19520cfc784e">
   <img alt="Header" height="30"  alt="connect with me">
 </picture>
 
