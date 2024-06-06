@@ -35,7 +35,12 @@
 <img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/3f69f4e7-0670-40a3-acff-e88829804092">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 
-<img height="30" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/3a7aff5f-f1c3-428f-8ea1-2e6845c38c37">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/3a7aff5f-f1c3-428f-8ea1-2e6845c38c37">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/4c7c43d3-a94e-42d0-b310-a71da20efb56">
+  <img alt="Header" height="30" src="/">
+</picture>
+
 
 <br/><hr/> 
 
