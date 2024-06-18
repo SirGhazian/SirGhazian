@@ -64,12 +64,22 @@
 </picture>
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/3a7aff5f-f1c3-428f-8ea1-2e6845c38c37">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/4c7c43d3-a94e-42d0-b310-a71da20efb56">
-  <img alt="Header" height="30" alt="keahlian">
-</picture>
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+  <img width="13" />
+  <img src="https://github.com/SirGhazian/SirGhazian/assets/142916107/38387ecb-7c4a-42c9-b24a-acf32008c5b4" height="40" alt="unrealengine logo"  />
+  <img width="13" />
+  <img src="https://github.com/SirGhazian/SirGhazian/assets/142916107/0fbc148f-7b68-4dfb-8494-f576a68dccc0" height="40" alt="marvelous designer logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+</div>
 
 <br/><hr/> 
 
