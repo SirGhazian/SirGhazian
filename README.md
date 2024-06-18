@@ -52,6 +52,8 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  /> 
 </div>
 
 ###
