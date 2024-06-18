@@ -43,6 +43,8 @@
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
   <img width="13" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="13" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
@@ -77,8 +79,6 @@
   <img src="https://github.com/SirGhazian/SirGhazian/assets/142916107/38387ecb-7c4a-42c9-b24a-acf32008c5b4" height="40" alt="unrealengine logo"  />
   <img width="13" />
   <img src="https://github.com/SirGhazian/SirGhazian/assets/142916107/0fbc148f-7b68-4dfb-8494-f576a68dccc0" height="40" alt="marvelous designer logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
 </div>
 
 <br/><hr/> 
