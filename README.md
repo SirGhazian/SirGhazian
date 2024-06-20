@@ -32,7 +32,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/3dd99933-c2b3-4830-901f-628dab50eec9">
   <img alt="Header" height="30"  alt="languages">
 </picture>
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+
+<img src="https://github.com/SirGhazian/website-donasi-laravel/assets/142916107/646ec44d-cc1d-4a57-9b12-0e4bbc3111e7" width="100%" height="1px"/>
+<p/>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
@@ -66,7 +68,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/3a4a3495-1d72-4210-9d3a-d234e612a725">
   <img alt="Header" height="30"  alt="other skills">
 </picture>
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 
 
 <div align="left">
