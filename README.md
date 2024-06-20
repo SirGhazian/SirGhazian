@@ -33,7 +33,7 @@
   <img alt="Header" height="30"  alt="languages">
 </picture>
 
-<img src="https://github.com/SirGhazian/website-donasi-laravel/assets/142916107/646ec44d-cc1d-4a57-9b12-0e4bbc3111e7" width="100%" height="1px"/>
+<img src="https://github.com/SirGhazian/website-donasi-laravel/assets/142916107/646ec44d-cc1d-4a57-9b12-0e4bbc3111e7" width="100%" height="2px"/>
 <p/>
 
 <div align="left">
@@ -69,6 +69,8 @@
   <img alt="Header" height="30"  alt="other skills">
 </picture>
 
+<img src="https://github.com/SirGhazian/website-donasi-laravel/assets/142916107/646ec44d-cc1d-4a57-9b12-0e4bbc3111e7" width="100%" height="2px"/>
+<p/>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
