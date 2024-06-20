@@ -20,12 +20,14 @@
 
 - 💬 Ask me about **3D, Graphic Design**
 
+- 📢 I speak ID / EN
+
 <p align="left">
 </p>
 
 <br/>
 
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/9a44bfd2-f8dc-4576-a024-c3f94cb037e7">
