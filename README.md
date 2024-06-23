@@ -108,6 +108,16 @@
 </a>
 <hr/> 
 
-<img align="left" width="1100" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7de35d9d-28fe-49d3-982f-5a99cf882175/d92nrfe-bc74d9e1-f404-47d5-b42b-2c3359d069a6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdkZTM1ZDlkLTI4ZmUtNDlkMy05ODJmLTVhOTljZjg4MjE3NVwvZDkybnJmZS1iYzc0ZDllMS1mNDA0LTQ3ZDUtYjQyYi0yYzMzNTlkMDY5YTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TO9L_o9u1Q9R7Zz-mj_KLbLBExBMYAbiXY7YcoZAy9Q">
-
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sirghazian&theme=nightowl&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sirghazian&theme=default&hide_border=true">
+  <img alt="Header"height=210 width=auto  alt="other skills">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sirghazian&theme=nightowl&show_icons=true&hide_border=true&layout=compact">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sirghazian&theme=default&show_icons=true&hide_border=true&layout=compact">
+  <img alt="Header"height=210 width=auto  alt="other skills">
+</picture>
+</p>
 </div>  
