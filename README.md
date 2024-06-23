@@ -112,12 +112,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sirghazian&theme=nightowl&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sirghazian&theme=default&hide_border=true">
-  <img alt="Header"height=210 width=auto  alt="other skills">
+  <img alt="Header"height=180 width=auto  alt="other skills">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sirghazian&theme=nightowl&show_icons=true&hide_border=true&layout=compact">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sirghazian&theme=default&show_icons=true&hide_border=true&layout=compact">
-  <img alt="Header"height=210 width=auto  alt="other skills">
+  <img alt="Header"height=180 width=auto  alt="other skills">
 </picture>
 </p>
 </div>  
