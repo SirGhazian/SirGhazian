@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently studying at **Universitas Negeri Padang**
 
-- 🌱 I’m currently learning **C++, C, Python, Javascript**
+- 🌱 I’m currently learning **Python, Javascript, Dart**
 
 - 💬 Ask me about **3D, Graphic Design**
 
