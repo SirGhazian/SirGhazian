@@ -57,6 +57,10 @@
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="13" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="arduino logo"  /> 
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="arduino logo"  /> 
+  <img width="13" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  /> 
 </div>
 
