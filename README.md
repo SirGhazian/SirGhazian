@@ -110,20 +110,5 @@
 </a>
 <a href="https://www.artstation.com/ghazian_tza" target="_blank">
 <img height="28.3" src="https://github.com/SirGhazian/SirGhazian/assets/142916107/9998d209-6da0-4e34-9621-a113c6c2bb0e"/>
-
 </a>
-<hr/> 
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sirghazian&theme=nightowl&show_icons=true&hide_border=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sirghazian&theme=default&show_icons=true&hide_border=true&count_private=true">
-  <img alt="Header"height=180 width=auto  alt="other skills">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sirghazian&theme=nightowl&show_icons=true&hide_border=true&layout=compact">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sirghazian&theme=default&show_icons=true&hide_border=true&layout=compact">
-  <img alt="Header"height=180 width=auto  alt="other skills">
-</picture>
-</p>
 </div>  
