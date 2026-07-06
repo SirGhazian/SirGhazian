@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/ce4dbc31-574d-44e2-b25b-802942294cf9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SirGhazian/SirGhazian/assets/142916107/40b06311-7be9-4d8a-8271-a3d1c803f2c0">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/08fb0ef7-06ba-42a8-84bc-ee0fb9337003">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/436d6bd6-2f10-43c1-94e4-ce554003863f">
   <img alt="Header" src="/">
 </picture>
 
