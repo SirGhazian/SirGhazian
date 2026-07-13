@@ -1,4 +1,4 @@
-<a href="https://www.ghaziantza.site/" target="_blank">
+<a href="https://www.ghaziantza.site/">
 <picture>
     <source srcset="./header-light.png" media="(prefers-color-scheme: light)">
     <source srcset="./header-dark.png" media="(prefers-color-scheme: dark)">
